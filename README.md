@@ -9,7 +9,7 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o 
 - [Tecnologias](#tecnologias)
 - [Requisitos](#requisitos)
 - [Como executar](#como-executar)
-- [Endpoints principais)](#Endpoints)
+- [Endpoints principais](#Endpoints)
 - [Licença](#licença)
 
 ---
