@@ -4,6 +4,16 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o 
 
 ---
 
+## Índice
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologias)
+- [Requisitos](#requisitos)
+- [Como executar](#como-executar)
+- [Endpoints principais)](#Endpoints)
+- [Licença](#licença)
+
+---
+
 ## Funcionalidades
 
 - CRUD de Categoria
@@ -57,3 +67,7 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o 
 | GET    | /formularioUsuario         | Cria objeto em branco             |
 | PUT    | /editarUsuario/{id}        | Atualizar usuário                 |
 | DELETE | /excluirUsuario/{id}       | Excluir usuário                   |
+
+
+## Licença
+- Projeto Desenvolvido pelo professor Carlos Andrade, apenas fiz o README do projeto.
