@@ -1,14 +1,14 @@
 # 📑 API REST - GERENCIADOR DE TAREFAS
 
-Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o gerenciamento de tarefas vinculadas a categorias. Utiliza banco de dados em memória (H2).
+Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o gerenciamento de tarefas vinculadas a categorias, além de possuir CRUD de usuários e relacionar tarefas a um usuário, onde cada usuário pode possuir diversas tarefas, mas uma tarefa pode pertencer a apenas um usuário. Utiliza banco de dados em memória (H2).
 
 ---
 
 ## Funcionalidades
 
-- CRUD de Categorias
-- CRUD de Usuários
-- CRUD de Tarefas vinculadas a Categorias
+- CRUD de Categoria
+- CRUD de Usuário
+- CRUD de Tarefa vinculadas a Categoria e Usuário
 - Listagem de Tarefas por categoria
 - Tratamento global de exceções
 
